@@ -1,3 +1,4 @@
 servers/pixel-1.20.1/forgemods/required filter=lfs diff=lfs merge=lfs -text
 Pixelmon-1.20.1-9.2.3-universal.jar filter=lfs diff=lfs merge=lfs -text
 D:/CobbleServerData/servers/pixel-1.20.1/forgemods/required/Pixelmon-1.20.1-9.2.3-universal.jar filter=lfs diff=lfs merge=lfs -text
+servers/pixel-1.20.1/forgemods/required/Pixelmon-1.20.1-9.2.3-universal.jar filter=lfs diff=lfs merge=lfs -text
