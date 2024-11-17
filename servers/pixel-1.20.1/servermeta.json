@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///D:/CobbleServerData/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1",
+    "name": "cjy (Minecraft 1.20.1)",
+    "description": "cjy Running Minecraft 1.20.2 (Forge v47.3.11)",
+    "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
+    "address": "cjy.p-e.kr:25565",
+    "discord": {
+      "shortId": "픽셀몬 서버",
+      "largeImageText": "1.20.1 픽셀몬 서버",
+      "largeImageKey": "ss"
+    },
+    "mainServer": false,
+    "autoconnect": false
+  },
+  "forge": {
+    "version": "47.3.11"
+  },
+  "untrackedFiles": []
+}
